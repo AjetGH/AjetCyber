@@ -2,9 +2,9 @@
 
 <h2>Cybersecurity Projects:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Python</b>
+- <b>Cybersecurity Frameworks(AlgoExpert)</b>
+  - [Incident Report Analysis Using NIST CSF](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Linux</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
