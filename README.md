@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:
 
 - <b>Cybersecurity Frameworks(AlgoExpert)</b>
-  - [Incident Report Analysis Using NIST CSF](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Report Analysis Using NIST CSF](https://github.com/AjetGH/NIST-CSF)
 - <b>Linux</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
