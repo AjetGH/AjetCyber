@@ -2,10 +2,10 @@
 
 <h2>Cybersecurity Projects:
 
-- <b>Cybersecurity Frameworks(AlgoExpert)</b>
+- <b>Cybersecurity Frameworks</b>
   - [Incident Report Analysis Using NIST CSF](https://github.com/AjetGH/NIST-CSF)
 - <b>Linux</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Installing and Uninstalling Applications Using APT in A Linux Bash Shell(sudo command)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
 
