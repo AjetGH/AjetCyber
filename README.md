@@ -5,7 +5,7 @@
 - <b>Cybersecurity Frameworks</b>
   - [Incident Report Analysis Using NIST CSF](https://github.com/AjetGH/NIST-CSF)
 - <b>Linux</b>
-  - [Installing and Uninstalling Applications Using APT in A Linux Bash Shell(sudo command)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Installing and Uninstalling Applications Using APT in A Linux Bash Shell(sudo command)](https://github.com/AjetGH/LINUX)
 
 <h2>Certifications</h2>
 
