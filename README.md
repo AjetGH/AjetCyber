@@ -6,7 +6,7 @@
   - [Incident Report Analysis Using NIST CSF](https://github.com/AjetGH/NIST-CSF)
 - <b>Linux</b>
   - [Installing and Uninstalling Applications Using APT in A Linux Bash Shell(sudo command)](https://github.com/AjetGH/LINUX)
-
+  - [Installing and Uninstalling Applications Using APT in A Linux Bash Shell(sudo command)](https://github.com/AjetGH/LINUX)
 <h2>Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
